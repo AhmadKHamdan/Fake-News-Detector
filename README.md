@@ -2,6 +2,9 @@
 
 > Compare baseline TF-IDF vs. enriched NLP pipelines for fake-news classification in a Streamlit app.
 
+## 🔗 Dataset Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset 
+
+
 ## 📂 Repository Structure
 
 ```
